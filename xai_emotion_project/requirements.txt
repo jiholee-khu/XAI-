@@ -1,0 +1,11 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+tqdm
+shap
+lime
+opensmile
+librosa
+soundfile
